@@ -1,5 +1,7 @@
 .main {
     padding: 36px;
+    max-width: 1000px;
+    margin-inline: auto;
 }
 
 .form {
