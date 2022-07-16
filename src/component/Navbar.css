@@ -1,0 +1,30 @@
+.Navbar {
+    display: flex;
+    align-items: center;
+    height: 65px;
+    background: linear-gradient(90deg, #672280 1.18%, #A626D3 100%);
+    color: white;
+}
+
+.nav--img {
+    margin: 19px 7px 20px 20px;
+    width: 31.31px; 
+    height: 26.22px;
+}
+
+.nav--title {
+    margin-right: auto;
+    font-weight: 600;
+    font-size: 20.7482px;
+    line-height: 24px;
+    letter-spacing: -0.1em;
+}
+
+.nav--proj {
+    font-family: 'Inter';
+    font-style: normal;
+    margin: 25px 37px 26px 0px;
+    font-size: 12px;
+    line-height: 15px;
+    text-align: right;
+}
