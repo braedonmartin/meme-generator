@@ -1,6 +1,6 @@
 {
-  "homepage": "https://braedonmartin.github.io/meme-generator",
-  "name": "5-meme-generator",
+  "homepage": "http://braedonmartin.github.io/meme-generator",
+  "name": "meme-generator",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
